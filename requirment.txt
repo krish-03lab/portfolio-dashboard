@@ -1,0 +1,8 @@
+Requirments
+streamlit 
+pandas
+numpy
+seaborn
+scify
+matplolib
+yfinance
